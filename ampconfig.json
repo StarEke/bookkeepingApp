@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.2",
+  "appInfo": {
+    "name": "BookKeeping",
+    "description": "This is a bookkeeping app to ble store owner manage their stores and supervise the activities of their managers ",
+    "version": "xhi891m3",
+    "id": "cl17nj7n856366001s60dijns85",
+    "url": "https://app.amplication.com/cl17nj7n856366001s60dijns85",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "bookkeeping",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl17nj7n856366001s60dijns85",
+      "authProvider": "Jwt"
+    }
+  }
+}
